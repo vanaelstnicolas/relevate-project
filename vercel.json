@@ -1,7 +1,5 @@
 {
   "version": 2,
-  "buildCommand": "echo 'Static site - no build needed'",
-  "public": true,
   "headers": [
     {
       "source": "/assets/:path*",
