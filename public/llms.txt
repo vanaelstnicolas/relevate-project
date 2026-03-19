@@ -1,0 +1,15 @@
+## Relevate
+
+Relevate is a Belgian AI implementation partner. We build working prototypes on real business processes in weeks, not months, so teams can test results before scaling.
+
+### Services
+- AI diagnostic (1-2 weeks)
+- AI prototype (4-6 weeks)
+- AI implementation (optional, with change management)
+
+### Primary Page
+- https://www.relevate.be/
+
+### Contact
+- contact@relevate.be
+- Brussels, Belgium
